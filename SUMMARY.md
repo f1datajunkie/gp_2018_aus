@@ -6,3 +6,5 @@
     * [FP3](practice/practice_report_p3.md)
 * [Qualifying](quali/README.md)
     * [Quali report](quali/f1_quali_aus_2018.md)
+* [Race](race/README.md)
+    * [Race report](race/f1_race_2018.md)
