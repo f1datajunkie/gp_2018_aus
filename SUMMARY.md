@@ -8,3 +8,5 @@
     * [Quali report](quali/f1_quali_aus_2018.md)
 * [Race](race/README.md)
     * [Race report](race/f1_race_2018.md)
+    * [Battlemaps](race/battlemaps.md)
+    * [Track concordance charts](race/trackconcordance.md)
