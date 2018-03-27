@@ -1,5 +1,6 @@
 # Summary
 
+* [Driver Circuit Performance](circuit/driver_performance.md)
 * [Practice](practice/README.md)
     * [FP1](practice/practice_report_p1.md)
     * [FP2](practice/practice_report_p2.md)
