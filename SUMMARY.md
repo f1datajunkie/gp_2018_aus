@@ -11,3 +11,4 @@
     * [Race report](race/f1_race_2018.md)
     * [Battlemaps](race/battlemaps.md)
     * [Track concordance charts](race/trackconcordance.md)
+    *  [Pitstops](race/pitstops.md)
