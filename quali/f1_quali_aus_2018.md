@@ -93,6 +93,10 @@ The cut-off time in Q3 evolved as follows:
 
 ![](images/f1_2018_aus-quali3_cutoff-1.png)
 
+# Intra-Team Qualifying Comparison
+
+![](images/f1_2018_aus_quali_intra_faceoff.png)
+
 ------------------------------------------------------------------------
 
 To learn how to wrangle F1 results and timing data to create charts like
